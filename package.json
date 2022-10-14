@@ -33,7 +33,7 @@
         "katex": "^0.13.11",
         "markdown-it-amsmath": "^0.1.2",
         "markdown-it-deflist": "^2.1.0",
-        "markdown-it-docutils": "^0.0.12",
+        "markdown-it-docutils": "^0.1.6",
         "markdown-it-dollarmath": "^0.2.0",
         "markdown-it-footnote": "^3.0.3",
         "markdown-it-front-matter": "^0.2.3",
