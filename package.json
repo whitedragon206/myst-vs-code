@@ -30,7 +30,7 @@
     "main": "out/extension",
     "dependencies": {
         "js-yaml": "^3.13.1",
-        "katex": "^0.13.11",
+        "katex": "^0.16.10",
         "markdown-it-amsmath": "^0.1.2",
         "markdown-it-deflist": "^2.1.0",
         "markdown-it-docutils": "^0.0.12",
